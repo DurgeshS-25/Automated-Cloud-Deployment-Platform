@@ -1,0 +1,86 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+terraform.tfvars
+*.tfvars
+*.tfplan
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Secrets & Keys
+*.pem
+*.key
+*.p12
+*.pfx
+.env
+.env.local
+.env.*.local
+secrets.yaml
+secrets.yml
+credentials.json
+
+# AWS
+.aws/
+aws-credentials.txt
+
+# Application
+target/
+*.jar
+!gradle-wrapper.jar
+*.war
+*.ear
+*.class
+*.log
+*.tmp
+
+# Build tools
+node_modules/
+dist/
+build/
+out/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Budget files (created earlier)
+budget-config.json
+notifications-config.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Test coverage
+coverage/
+*.cover
+.coverage
+htmlcov/
+
+# Documentation temp files
+*.pdf
+*.docx
+~$*
