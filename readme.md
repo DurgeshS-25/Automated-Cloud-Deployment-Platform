@@ -135,11 +135,4 @@ AWS Certified Cloud Practitioner
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:durgeshss25@gmail.com)
 
 ---
-
-## 📝 License
-
-MIT License - See [LICENSE](LICENSE) file for details.
-
----
-
 **Built with ❤️ to demonstrate production-ready DevOps practices**
