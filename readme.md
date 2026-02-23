@@ -130,7 +130,7 @@ Built to demonstrate:
 MS Information Systems @ Northeastern University  
 AWS Certified Cloud Practitioner
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgesh-s/?skipRedirect=true)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/DurgeshS-25)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:durgeshss25@gmail.com)
 
